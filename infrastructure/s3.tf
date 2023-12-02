@@ -1,0 +1,1 @@
+ # This code describes the steps to create an s3 bucket in aws
